@@ -1,0 +1,3 @@
+export const used_system_cate = {"code":"2000","message":"成功","data":{"data":[{"key":"4","value":"User"},{"key":"7","value":"Website"},{"key":"6","value":"Nurse"},{"key":"5","value":"CRM"}]}};
+export const used_business_cate = {"code":"2000","message":"成功","data":{"data":[{"key":"9","value":"客户注册"},{"key":"8","value":"护士注册"},{"key":"11","value":"项目购买"},{"key":"10","value":"预约下单"}]}};
+export const used_to_cate = {"code":"2000","message":"成功","data":{"data":[{"key":"12","value":"客户"},{"key":"13","value":"Nad客服"}]}};

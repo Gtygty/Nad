@@ -1,0 +1,1 @@
+export const email_templates_lang_html = {"code":"2000","message":"成功","data":{"html":"<p>test</p>"}}

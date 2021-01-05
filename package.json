@@ -12,7 +12,7 @@
   "dependencies": {
     "@tinymce/tinymce-vue": "^2.0.0",
     "ajv": "^6.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.3.2",
     "i18n": "^0.8.3",
     "iview": "^3.3.3",
